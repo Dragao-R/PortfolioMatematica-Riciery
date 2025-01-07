@@ -2,7 +2,7 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.459);
+    background-color: rgba(104, 104, 104, 0.329);
     position: fixed;
     width: 100%;
     bottom: 0;
@@ -12,18 +12,14 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: gold;
+    color: rgb(0, 0, 0);
     padding: 10px;
 }
 
 footer a:hover {
-    background-color: #7a6633ad;
+    background-color: #b1b1b160;
 }
 
 footer .center {
     margin: 0 auto;
-}
-
-table, p, td {
-    font-size: 30px;
 }
